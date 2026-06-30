@@ -1,0 +1,484 @@
+{
+  "pagination_mode": "selenium_buttons",
+  "listing_page_urls": [
+    "https://www.swiss-solidarity.org/our-work/our-past-campaigns#page=1",
+    "https://www.swiss-solidarity.org/our-work/our-past-campaigns#page=2",
+    "https://www.swiss-solidarity.org/our-work/our-past-campaigns#page=3",
+    "https://www.swiss-solidarity.org/our-work/our-past-campaigns#page=4"
+  ],
+  "selenium_button_pages": [
+    {
+      "page": 1,
+      "selector": null
+    },
+    {
+      "page": 2,
+      "selector": ".pagination > li:nth-child(2) > button:nth-child(1)"
+    },
+    {
+      "page": 3,
+      "selector": ".pagination > li:nth-child(3) > button:nth-child(1)"
+    },
+    {
+      "page": 4,
+      "selector": ".pagination > li:nth-child(4) > button:nth-child(1)"
+    }
+  ],
+  "campaign_links_bs4": [
+    "https://www.swiss-solidarity.org/campaigns/aid-following-the-earthquake-in-nepal",
+    "https://www.swiss-solidarity.org/campaigns/aid-for-afghanistan",
+    "https://www.swiss-solidarity.org/campaigns/aid-in-response-to-disasters-and-crises-in-switzerland",
+    "https://www.swiss-solidarity.org/campaigns/asia-2009",
+    "https://www.swiss-solidarity.org/campaigns/child-protection-in-switzerland",
+    "https://www.swiss-solidarity.org/campaigns/child-relief",
+    "https://www.swiss-solidarity.org/campaigns/children-in-need",
+    "https://www.swiss-solidarity.org/campaigns/climate-crisis-in-africa",
+    "https://www.swiss-solidarity.org/campaigns/coeur-a-coeur-education-is-the-best-springboard-for-the-future",
+    "https://www.swiss-solidarity.org/campaigns/coronavirus-international",
+    "https://www.swiss-solidarity.org/campaigns/coronavirus-switzerland",
+    "https://www.swiss-solidarity.org/campaigns/cyclone-in-mozambique",
+    "https://www.swiss-solidarity.org/campaigns/cyclone-in-myanmar-burma",
+    "https://www.swiss-solidarity.org/campaigns/earthquake-in-iran",
+    "https://www.swiss-solidarity.org/campaigns/earthquake-in-italy",
+    "https://www.swiss-solidarity.org/campaigns/earthquake-in-morocco",
+    "https://www.swiss-solidarity.org/campaigns/earthquake-in-turkey-and-syria",
+    "https://www.swiss-solidarity.org/campaigns/earthquakes-in-venezuela",
+    "https://www.swiss-solidarity.org/campaigns/famine-in-africa",
+    "https://www.swiss-solidarity.org/campaigns/flooding-in-india",
+    "https://www.swiss-solidarity.org/campaigns/flooding-in-pakistan",
+    "https://www.swiss-solidarity.org/campaigns/flooding-in-pakistan-1",
+    "https://www.swiss-solidarity.org/campaigns/flooding-in-pakistan-2010",
+    "https://www.swiss-solidarity.org/campaigns/flooding-in-the-balkans",
+    "https://www.swiss-solidarity.org/campaigns/gaza",
+    "https://www.swiss-solidarity.org/campaigns/haiti-aid-following-the-earthquake",
+    "https://www.swiss-solidarity.org/campaigns/heartbeats",
+    "https://www.swiss-solidarity.org/campaigns/humanitarian-crisis-in-sudan",
+    "https://www.swiss-solidarity.org/campaigns/humanitarian-crisis-in-sudan-1",
+    "https://www.swiss-solidarity.org/campaigns/humanitarian-crisis-in-the-middle-east",
+    "https://www.swiss-solidarity.org/campaigns/hunger-in-east-africa",
+    "https://www.swiss-solidarity.org/campaigns/hunger-in-east-africa-1",
+    "https://www.swiss-solidarity.org/campaigns/hurricane-matthew",
+    "https://www.swiss-solidarity.org/campaigns/japan",
+    "https://www.swiss-solidarity.org/campaigns/jeder-rappen-zaehlt-2009-2018",
+    "https://www.swiss-solidarity.org/campaigns/lebanon-emergency",
+    "https://www.swiss-solidarity.org/campaigns/natural-disasters-in-switzerland-blatten",
+    "https://www.swiss-solidarity.org/campaigns/our-current-fundraising-campaigns",
+    "https://www.swiss-solidarity.org/campaigns/refugees",
+    "https://www.swiss-solidarity.org/campaigns/rockslide-at-bondo",
+    "https://www.swiss-solidarity.org/campaigns/rohingya",
+    "https://www.swiss-solidarity.org/campaigns/severe-weather-events-in-switzerland-in-2024",
+    "https://www.swiss-solidarity.org/campaigns/severe-weather-in-switzerland-2005",
+    "https://www.swiss-solidarity.org/campaigns/socio-professional-integration-of-young-people-in-switzerland",
+    "https://www.swiss-solidarity.org/campaigns/support-for-homeless-and-marginalised-people-in-switzerland",
+    "https://www.swiss-solidarity.org/campaigns/swiss-solidaritys-emergency-fund",
+    "https://www.swiss-solidarity.org/campaigns/swiss-solidaritys-fundraising-campaigns-since-1946",
+    "https://www.swiss-solidarity.org/campaigns/syria",
+    "https://www.swiss-solidarity.org/campaigns/tackling-child-abuse-in-switzerland-and-worldwide",
+    "https://www.swiss-solidarity.org/campaigns/together-for-children-in-crisis",
+    "https://www.swiss-solidarity.org/campaigns/tsunami-in-indonesia",
+    "https://www.swiss-solidarity.org/campaigns/tsunami-in-southeast-asia",
+    "https://www.swiss-solidarity.org/campaigns/typhoon-haiyan",
+    "https://www.swiss-solidarity.org/campaigns/vanuatu",
+    "https://www.swiss-solidarity.org/campaigns/war-in-ukraine",
+    "https://www.swiss-solidarity.org/campaigns/war-in-yemen",
+    "https://www.swiss-solidarity.org/campaigns/women-in-forgotten-crises"
+  ],
+  "records": [
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/aid-following-the-earthquake-in-nepal",
+      "title": "Aid following the earthquake in Nepal",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 46
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/aid-for-afghanistan",
+      "title": "Aid for Afghanistan",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 35
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/aid-in-response-to-disasters-and-crises-in-switzerland",
+      "title": "Aid in response to disasters and crises in Switzerland",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 60
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/asia-2009",
+      "title": "Asia 2009",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 32
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/child-protection-in-switzerland",
+      "title": "Child Protection in Switzerland",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 40
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/child-relief",
+      "title": "Child relief",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 62
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/children-in-need",
+      "title": "Children in need",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 46
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/climate-crisis-in-africa",
+      "title": "Climate crisis in Africa",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 32
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/coeur-a-coeur-education-is-the-best-springboard-for-the-future",
+      "title": "Coeur à Coeur: Education is the best springboard for the future",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 40
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/coronavirus-international",
+      "title": "Coronavirus International",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 56
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/coronavirus-switzerland",
+      "title": "Coronavirus Switzerland",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 52
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/cyclone-in-mozambique",
+      "title": "Cyclone in Mozambique",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 42
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/cyclone-in-myanmar-burma",
+      "title": "Cyclone in Myanmar / Burma",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 35
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/earthquake-in-iran",
+      "title": "Earthquake in Iran",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 32
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/earthquake-in-italy",
+      "title": "Earthquake in Italy",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 32
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/earthquake-in-morocco",
+      "title": "Earthquake in Morocco",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 44
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/earthquake-in-turkey-and-syria",
+      "title": "Earthquake in Turkey and Syria",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 43
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/earthquakes-in-venezuela",
+      "title": "Earthquakes in Venezuela",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 44
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/famine-in-africa",
+      "title": "Famine in Africa",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 53
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/flooding-in-india",
+      "title": "Flooding in India",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 51
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/flooding-in-pakistan",
+      "title": "Flooding in Pakistan",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 32
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/flooding-in-pakistan-1",
+      "title": "Flooding in Pakistan",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 38
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/flooding-in-pakistan-2010",
+      "title": "Flooding in Pakistan 2010",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 32
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/flooding-in-the-balkans",
+      "title": "Flooding in the Balkans",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 32
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/gaza",
+      "title": "Gaza",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 58
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/haiti-aid-following-the-earthquake",
+      "title": "Haiti: aid following the earthquake",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 31
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/heartbeats",
+      "title": "HeartBeats",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 36
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/humanitarian-crisis-in-sudan",
+      "title": "Humanitarian crisis in Sudan",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 76
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/humanitarian-crisis-in-sudan-1",
+      "error": "404 Client Error: Not Found for url: https://www.swiss-solidarity.org/campaigns/humanitarian-crisis-in-sudan-1"
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/humanitarian-crisis-in-the-middle-east",
+      "title": "Humanitarian crisis in the Middle East",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 62
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/hunger-in-east-africa",
+      "title": "Hunger in East Africa",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 56
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/hunger-in-east-africa-1",
+      "title": "Hunger in East Africa",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 53
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/hurricane-matthew",
+      "title": "Hurricane Matthew",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 46
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/japan",
+      "title": "Japan",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 32
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/jeder-rappen-zaehlt-2009-2018",
+      "title": "Jeder Rappen zählt 2009 – 2018",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 68
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/lebanon-emergency",
+      "title": "Lebanon Emergency",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 46
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/natural-disasters-in-switzerland-blatten",
+      "title": "Natural disasters in Switzerland: Blatten",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 57
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/our-current-fundraising-campaigns",
+      "title": "Our current fundraising campaigns",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 33
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/refugees",
+      "title": "Refugees",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 44
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/rockslide-at-bondo",
+      "title": "Rockslide at Bondo",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 36
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/rohingya",
+      "title": "Rohingya",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 45
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/severe-weather-events-in-switzerland-in-2024",
+      "title": "Severe weather events in Switzerland in 2024",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 40
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/severe-weather-in-switzerland-2005",
+      "title": "Severe weather in Switzerland 2005",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 49
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/socio-professional-integration-of-young-people-in-switzerland",
+      "title": "Socio-professional integration of young people in Switzerland",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 44
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/support-for-homeless-and-marginalised-people-in-switzerland",
+      "title": "Support for homeless and marginalised people in Switzerland",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 41
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/swiss-solidaritys-emergency-fund",
+      "title": "Swiss Solidarity’s Emergency fund",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 62
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/swiss-solidaritys-fundraising-campaigns-since-1946",
+      "title": "Swiss Solidarity's fundraising campaigns since 1946",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 33
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/syria",
+      "title": "Syria",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 50
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/tackling-child-abuse-in-switzerland-and-worldwide",
+      "title": "Tackling Child Abuse in Switzerland and worldwide",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 31
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/together-for-children-in-crisis",
+      "title": "Together for children in crisis",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 61
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/tsunami-in-indonesia",
+      "title": "Tsunami in Indonesia",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 47
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/tsunami-in-southeast-asia",
+      "title": "Tsunami in Southeast Asia",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 57
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/typhoon-haiyan",
+      "title": "Typhoon Haiyan",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 52
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/vanuatu",
+      "title": "Vanuatu",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 32
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/war-in-ukraine",
+      "title": "War in Ukraine",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 86
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/war-in-yemen",
+      "title": "War in Yemen",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 45
+    },
+    {
+      "url": "https://www.swiss-solidarity.org/campaigns/women-in-forgotten-crises",
+      "title": "Women in forgotten crises",
+      "preview": "We need you Your donation, our action.",
+      "body_excerpt": "We need you Your donation, our action. Get involved Discover all the ways you can get involved with us: donations, partnerships, school programmes or volunteering. Whether it's a one-off donation, a legacy gift, a corporate collection or a solidarity campaign, explore the many ways you can support Swiss Solidarity and its work. Together, we can go further: find out more about our collaborations with companies and how we can build a partnership with you. Working with Swiss Solidarity, you can benefit from our partnerships and expertise to maximise the impact of your foundation. Make your solidarity last beyond your lifetime by including Swiss Solidarity in your will. Find all the practical information here.",
+      "paragraph_count": 52
+    }
+  ]
+}

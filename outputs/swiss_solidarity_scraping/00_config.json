@@ -1,0 +1,5 @@
+{
+  "seed_url": "https://www.swiss-solidarity.org/our-work/our-past-campaigns",
+  "base_domain": "https://www.swiss-solidarity.org",
+  "output_dir": "outputs/swiss_solidarity_scraping"
+}

@@ -1,0 +1,8 @@
+{
+  "helpers": [
+    "polite_get",
+    "extract_campaign_content"
+  ],
+  "default_sleep_seconds": 0.6,
+  "default_timeout": 20
+}
