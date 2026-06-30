@@ -15,6 +15,18 @@ You can run the notebook directly in Google Colab with this link:
 
 In Colab, use File > Save a copy in Drive to place it in your Google Drive.
 
+## No-Code Web Scraper Interface (Hugging Face Space)
+
+For non-coders, you can also use this user-friendly web app:
+
+[Hugging Face Space: Web Scraper UI](https://huggingface.co/spaces/luciagomez/web_scraper)
+
+This interface is designed to let you scrape websites without writing code. It supports:
+- Recursive web scraping with BeautifulSoup
+- Sitemap exploration to discover website structure
+- Retrieval of specific elements identified through the sitemap
+- Download and preservation of PDF files as PDF documents
+
 ## What This Notebook Teaches
 
 The notebook compares and documents several scraping approaches:
