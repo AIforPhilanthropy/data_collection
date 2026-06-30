@@ -27,6 +27,9 @@ This interface is designed to let you scrape websites without writing code. It s
 - Retrieval of specific elements identified through the sitemap
 - Download and preservation of PDF files as PDF documents
 
+<img width="725" height="505" alt="image" src="https://github.com/user-attachments/assets/8b7e882e-8c68-4b12-92fc-43d12081abac" />
+
+
 ## What This Notebook Teaches
 
 The notebook compares and documents several scraping approaches:
